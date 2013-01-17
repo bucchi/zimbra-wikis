@@ -1,7 +1,8 @@
 zimbra-wikis
 ============
 
-This is the repository for my Zimbra wikis, which store tips of Zimbra.
+This is the repository for my Zimbra wiki pages, which includes tips and hacks of Zimbra.
 
-You should see "Wiki" of this repository.
+You can see the contents in "Wiki" of this repository.
+
 
